@@ -9,7 +9,9 @@ Plugin para validación de formularios pormedio de expresiones regulares.
 Luego se hace la instancia desde el formulario de la siguiente forma:
 </p>
 
-$("#form_page").overlooker();
+<code>
+    $("#form_page").overlooker();
+</code>
 
 <p>De esta forma conseguiremos por defecto una validación por defecto para campos vacíos cada vez que se ejecute el evento change.</p>
 
