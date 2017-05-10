@@ -1,0 +1,8 @@
+{
+	"name" : "overlooker.js",
+	"version" : "1.0.1",
+	"main" : "./overlooker.js",
+	"dependencies" : {
+		"jquery" : "2.2.3"		
+	}
+}
